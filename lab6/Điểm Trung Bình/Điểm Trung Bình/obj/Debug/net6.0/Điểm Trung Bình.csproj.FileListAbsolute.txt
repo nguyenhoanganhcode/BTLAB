@@ -1,0 +1,14 @@
+C:\BT C#\LAB 6\Điểm Trung Bình\Điểm Trung Bình\bin\Debug\net6.0\Điểm Trung Bình.exe
+C:\BT C#\LAB 6\Điểm Trung Bình\Điểm Trung Bình\bin\Debug\net6.0\Điểm Trung Bình.deps.json
+C:\BT C#\LAB 6\Điểm Trung Bình\Điểm Trung Bình\bin\Debug\net6.0\Điểm Trung Bình.runtimeconfig.json
+C:\BT C#\LAB 6\Điểm Trung Bình\Điểm Trung Bình\bin\Debug\net6.0\Điểm Trung Bình.dll
+C:\BT C#\LAB 6\Điểm Trung Bình\Điểm Trung Bình\bin\Debug\net6.0\ref\Điểm Trung Bình.dll
+C:\BT C#\LAB 6\Điểm Trung Bình\Điểm Trung Bình\bin\Debug\net6.0\Điểm Trung Bình.pdb
+C:\BT C#\LAB 6\Điểm Trung Bình\Điểm Trung Bình\obj\Debug\net6.0\Điểm Trung Bình.GeneratedMSBuildEditorConfig.editorconfig
+C:\BT C#\LAB 6\Điểm Trung Bình\Điểm Trung Bình\obj\Debug\net6.0\Điểm Trung Bình.AssemblyInfoInputs.cache
+C:\BT C#\LAB 6\Điểm Trung Bình\Điểm Trung Bình\obj\Debug\net6.0\Điểm Trung Bình.AssemblyInfo.cs
+C:\BT C#\LAB 6\Điểm Trung Bình\Điểm Trung Bình\obj\Debug\net6.0\Điểm Trung Bình.csproj.CoreCompileInputs.cache
+C:\BT C#\LAB 6\Điểm Trung Bình\Điểm Trung Bình\obj\Debug\net6.0\Điểm Trung Bình.dll
+C:\BT C#\LAB 6\Điểm Trung Bình\Điểm Trung Bình\obj\Debug\net6.0\ref\Điểm Trung Bình.dll
+C:\BT C#\LAB 6\Điểm Trung Bình\Điểm Trung Bình\obj\Debug\net6.0\Điểm Trung Bình.pdb
+C:\BT C#\LAB 6\Điểm Trung Bình\Điểm Trung Bình\obj\Debug\net6.0\Điểm Trung Bình.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\BT C#\LAB 3\BT9\BT9\bin\Debug\net6.0\BT9.exe
+C:\BT C#\LAB 3\BT9\BT9\bin\Debug\net6.0\BT9.deps.json
+C:\BT C#\LAB 3\BT9\BT9\bin\Debug\net6.0\BT9.runtimeconfig.json
+C:\BT C#\LAB 3\BT9\BT9\bin\Debug\net6.0\BT9.dll
+C:\BT C#\LAB 3\BT9\BT9\bin\Debug\net6.0\ref\BT9.dll
+C:\BT C#\LAB 3\BT9\BT9\bin\Debug\net6.0\BT9.pdb
+C:\BT C#\LAB 3\BT9\BT9\obj\Debug\net6.0\BT9.csproj.AssemblyReference.cache
+C:\BT C#\LAB 3\BT9\BT9\obj\Debug\net6.0\BT9.GeneratedMSBuildEditorConfig.editorconfig
+C:\BT C#\LAB 3\BT9\BT9\obj\Debug\net6.0\BT9.AssemblyInfoInputs.cache
+C:\BT C#\LAB 3\BT9\BT9\obj\Debug\net6.0\BT9.AssemblyInfo.cs
+C:\BT C#\LAB 3\BT9\BT9\obj\Debug\net6.0\BT9.csproj.CoreCompileInputs.cache
+C:\BT C#\LAB 3\BT9\BT9\obj\Debug\net6.0\BT9.dll
+C:\BT C#\LAB 3\BT9\BT9\obj\Debug\net6.0\ref\BT9.dll
+C:\BT C#\LAB 3\BT9\BT9\obj\Debug\net6.0\BT9.pdb
+C:\BT C#\LAB 3\BT9\BT9\obj\Debug\net6.0\BT9.genruntimeconfig.cache

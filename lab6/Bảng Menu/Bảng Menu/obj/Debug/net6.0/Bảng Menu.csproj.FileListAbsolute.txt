@@ -1,0 +1,14 @@
+C:\BT C#\LAB 6\Bảng Menu\Bảng Menu\bin\Debug\net6.0\Bảng Menu.exe
+C:\BT C#\LAB 6\Bảng Menu\Bảng Menu\bin\Debug\net6.0\Bảng Menu.deps.json
+C:\BT C#\LAB 6\Bảng Menu\Bảng Menu\bin\Debug\net6.0\Bảng Menu.runtimeconfig.json
+C:\BT C#\LAB 6\Bảng Menu\Bảng Menu\bin\Debug\net6.0\Bảng Menu.dll
+C:\BT C#\LAB 6\Bảng Menu\Bảng Menu\bin\Debug\net6.0\ref\Bảng Menu.dll
+C:\BT C#\LAB 6\Bảng Menu\Bảng Menu\bin\Debug\net6.0\Bảng Menu.pdb
+C:\BT C#\LAB 6\Bảng Menu\Bảng Menu\obj\Debug\net6.0\Bảng Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\BT C#\LAB 6\Bảng Menu\Bảng Menu\obj\Debug\net6.0\Bảng Menu.AssemblyInfoInputs.cache
+C:\BT C#\LAB 6\Bảng Menu\Bảng Menu\obj\Debug\net6.0\Bảng Menu.AssemblyInfo.cs
+C:\BT C#\LAB 6\Bảng Menu\Bảng Menu\obj\Debug\net6.0\Bảng Menu.csproj.CoreCompileInputs.cache
+C:\BT C#\LAB 6\Bảng Menu\Bảng Menu\obj\Debug\net6.0\Bảng Menu.dll
+C:\BT C#\LAB 6\Bảng Menu\Bảng Menu\obj\Debug\net6.0\ref\Bảng Menu.dll
+C:\BT C#\LAB 6\Bảng Menu\Bảng Menu\obj\Debug\net6.0\Bảng Menu.pdb
+C:\BT C#\LAB 6\Bảng Menu\Bảng Menu\obj\Debug\net6.0\Bảng Menu.genruntimeconfig.cache

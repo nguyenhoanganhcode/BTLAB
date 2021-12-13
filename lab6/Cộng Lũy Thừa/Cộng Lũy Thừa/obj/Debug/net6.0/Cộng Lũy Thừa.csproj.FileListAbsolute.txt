@@ -1,0 +1,14 @@
+C:\BT C#\LAB 6\Cộng Lũy Thừa\Cộng Lũy Thừa\bin\Debug\net6.0\Cộng Lũy Thừa.exe
+C:\BT C#\LAB 6\Cộng Lũy Thừa\Cộng Lũy Thừa\bin\Debug\net6.0\Cộng Lũy Thừa.deps.json
+C:\BT C#\LAB 6\Cộng Lũy Thừa\Cộng Lũy Thừa\bin\Debug\net6.0\Cộng Lũy Thừa.runtimeconfig.json
+C:\BT C#\LAB 6\Cộng Lũy Thừa\Cộng Lũy Thừa\bin\Debug\net6.0\Cộng Lũy Thừa.dll
+C:\BT C#\LAB 6\Cộng Lũy Thừa\Cộng Lũy Thừa\bin\Debug\net6.0\ref\Cộng Lũy Thừa.dll
+C:\BT C#\LAB 6\Cộng Lũy Thừa\Cộng Lũy Thừa\bin\Debug\net6.0\Cộng Lũy Thừa.pdb
+C:\BT C#\LAB 6\Cộng Lũy Thừa\Cộng Lũy Thừa\obj\Debug\net6.0\Cộng Lũy Thừa.GeneratedMSBuildEditorConfig.editorconfig
+C:\BT C#\LAB 6\Cộng Lũy Thừa\Cộng Lũy Thừa\obj\Debug\net6.0\Cộng Lũy Thừa.AssemblyInfoInputs.cache
+C:\BT C#\LAB 6\Cộng Lũy Thừa\Cộng Lũy Thừa\obj\Debug\net6.0\Cộng Lũy Thừa.AssemblyInfo.cs
+C:\BT C#\LAB 6\Cộng Lũy Thừa\Cộng Lũy Thừa\obj\Debug\net6.0\Cộng Lũy Thừa.csproj.CoreCompileInputs.cache
+C:\BT C#\LAB 6\Cộng Lũy Thừa\Cộng Lũy Thừa\obj\Debug\net6.0\Cộng Lũy Thừa.dll
+C:\BT C#\LAB 6\Cộng Lũy Thừa\Cộng Lũy Thừa\obj\Debug\net6.0\ref\Cộng Lũy Thừa.dll
+C:\BT C#\LAB 6\Cộng Lũy Thừa\Cộng Lũy Thừa\obj\Debug\net6.0\Cộng Lũy Thừa.pdb
+C:\BT C#\LAB 6\Cộng Lũy Thừa\Cộng Lũy Thừa\obj\Debug\net6.0\Cộng Lũy Thừa.genruntimeconfig.cache
