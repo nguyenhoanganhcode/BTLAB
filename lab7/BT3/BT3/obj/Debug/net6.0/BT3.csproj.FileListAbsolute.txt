@@ -1,0 +1,5 @@
+C:\BAI TAP\lab7\BT3\BT3\obj\Debug\net6.0\BT3.csproj.AssemblyReference.cache
+C:\BAI TAP\lab7\BT3\BT3\obj\Debug\net6.0\BT3.GeneratedMSBuildEditorConfig.editorconfig
+C:\BAI TAP\lab7\BT3\BT3\obj\Debug\net6.0\BT3.AssemblyInfoInputs.cache
+C:\BAI TAP\lab7\BT3\BT3\obj\Debug\net6.0\BT3.AssemblyInfo.cs
+C:\BAI TAP\lab7\BT3\BT3\obj\Debug\net6.0\BT3.csproj.CoreCompileInputs.cache
